@@ -3,4 +3,6 @@ small house to work with :)
 
 Please do not re-post or upload to workshop, but besides that, you can mess around with it however you want.
 
-To get the map on gmod just put the ph_PunyHouse file inside of "C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\addons" then, if garry's mod is open close it, re-open it a gain, and that should work.
+to get the map working, you have to go to your downloads (or wherever you keep ph_Punyhouse) unzip the folder, and run the .bsp file. If it comes up with a prompt asking you what you wanna run the file with click "chose an app from your computer" then locate the garry's mod .exe file and click open. it should work.
+
+if you wnat me to post a tutorial on my yt then just ask in comments.
